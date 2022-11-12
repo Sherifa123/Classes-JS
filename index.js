@@ -79,3 +79,20 @@ console.log(dishes4.status);
 
 let menu1 = new Menu(", Visit Again");
 menu1.welcome();
+
+
+// Expected Output
+// Burger
+// Briyani
+// Pasta
+// Hello Briyani
+// undefined
+// Are You Satisfies with our meal ?
+// settled
+// undefined
+// Briyani
+// Tandori
+// settled
+// Welocme to our restrauant , Visit Again.
+// ratings: Menu
+
